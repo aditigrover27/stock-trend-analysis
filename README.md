@@ -1,4 +1,4 @@
-# 📊 Indian Stock Market Price Trend & Risk-Return Analysis
+# 📊 Stock Price Analysis
 
 ## Overview
 An automated quantitative finance and data visualization pipeline built in **Python**. This project ingests 5 years of daily market data from the **National Stock Exchange (NSE)** for three major Indian equities—**Reliance Industries (`RELIANCE.NS`)**, **Tata Consultancy Services (`TCS.NS`)**, and **HDFC Bank (`HDFCBANK.NS`)**—to evaluate capital efficiency, structural price trends, and portfolio diversification benefits.
